@@ -1,0 +1,4 @@
+1.	ssh to ec2 instance using cmd console window
+
+	ssh -i <path\pem-key-file>.pem <domain>@<public-ip>
+	example: ssh -i C:\Users\HP\Downloads\shell-key.pem ubuntu@44.202.110.90
